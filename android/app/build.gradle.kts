@@ -1,3 +1,4 @@
+// Build for ARM v9.2 device
 plugins {
     id("com.android.application")
     id("kotlin-android")
