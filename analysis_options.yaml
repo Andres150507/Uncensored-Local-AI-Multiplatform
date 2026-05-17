@@ -1,3 +1,4 @@
+# Fixed: Remove ARM v8.2 incompatible libraries
 # This file configures the analyzer, which statically analyzes Dart code to
 # check for errors, warnings, and lints.
 #
